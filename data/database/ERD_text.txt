@@ -1,0 +1,23 @@
+cr_to_xp
+-
+cr decimal PK
+xp int
+
+monster_stats
+-
+name varchar PK
+url varchar
+cr decimal FK >- cr_to_xp.cr
+type varchar
+size varchar
+ac int
+hp int
+cha int
+wis int
+int int
+con int
+dex int
+str int
+swim varchar
+fly varchar
+legendary varchar

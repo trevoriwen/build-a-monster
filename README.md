@@ -4,7 +4,7 @@
 
 #### Current Status: Minimum Viable Product (MVP) Complete
 
-#### MVP Dashboard: [https://thecarpedm.github.io/DND/ ](https://trevoriwen.github.io/build-a-monster/)
+#### MVP Dashboard: https://trevoriwen.github.io/build-a-monster/
 
 #### Presentation for MVP: https://docs.google.com/presentation/d/1p2H1VOYV1S2l-KxgNv2MTVLyTSLPGuzVoiJnb_SPr14/edit?usp=sharing
 
